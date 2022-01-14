@@ -18,6 +18,10 @@ header {
     
 }
 
+.dsmovie-nav-content a {
+    text-decoration: none;
+}
+
 .dsmovie-contact-container {
     display: flex;
     align-items: center;
